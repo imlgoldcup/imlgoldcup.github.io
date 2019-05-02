@@ -2712,14 +2712,6 @@ body {
 .cid-rpkCyD6HPq DIV {
   color: #57468b;
 }
-.cid-rph67rzTAd {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #409014;
-}
-.cid-rph67rzTAd .media-container-row .mbr-text {
-  color: #ffffff;
-}
 .cid-rpmboztjVh {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -2763,4 +2755,12 @@ body {
 }
 .cid-rpmboztjVh DIV {
   color: #57468b;
+}
+.cid-rph67rzTAd {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #409014;
+}
+.cid-rph67rzTAd .media-container-row .mbr-text {
+  color: #ffffff;
 }
