@@ -37,10 +37,10 @@ body {
 }
 .display-4 {
   font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 1.8rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.88rem;
   font-weight: 400;
 }
 .display-5 {
@@ -74,9 +74,9 @@ body {
     line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.12rem;
@@ -665,13 +665,13 @@ a:hover {
   border: 1px solid #f5f6ff;
   border-radius: 10px;
   font-family: 'IBM Plex Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 1.8rem;
   line-height: 1;
   min-height: 48px;
   padding: 14px 30px;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.88rem;
   font-weight: 400;
 }
 .form-control,
@@ -2273,20 +2273,20 @@ body {
   color: #5580ff;
 }
 .cid-rpf5YbpRFy {
-  padding-top: 195px;
-  padding-bottom: 210px;
+  padding-top: 210px;
+  padding-bottom: 225px;
   background-image: url("../../../assets/images/mbr-1920x1220.jpg");
 }
 @media (max-width: 992px) {
   .cid-rpf5YbpRFy {
-    padding-top: 130px;
-    padding-bottom: 140px;
+    padding-top: 140px;
+    padding-bottom: 150px;
   }
 }
 @media (max-width: 576px) {
   .cid-rpf5YbpRFy {
-    padding-top: 91px;
-    padding-bottom: 98px;
+    padding-top: 98px;
+    padding-bottom: 105px;
   }
 }
 .cid-rpf5YbpRFy .icon-wrap {
